@@ -1,5 +1,9 @@
 # Rick and Morty Dynamic Multi Select Input
 
+You can try out the demo [here](https://select-input.vercel.app/).
+
+![Demo Screenshot](./lp.jpeg)
+
 ## Kullanılan Kütüphaneler
 
 - React - Kullanıcı arayüzü oluşturmak için.
